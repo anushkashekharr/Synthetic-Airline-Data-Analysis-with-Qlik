@@ -10,3 +10,5 @@ An airport authority aims to enhance operational efficiency by analyzing flight 
 
 Scenario 3: Customer Experience Enhancement
 Airlines are keen to enhance the passenger experience by understanding customer preferences, satisfaction levels, and pain points. Through sentiment analysis on customer feedback data integrated with Qlik, airlines can identify areas for improvement, personalize services, and tailor marketing campaigns to better meet customer needs, ultimately fostering loyalty and satisfaction.
+
+Dataset link : https://drive.google.com/file/d/1rywd7IWoS_9g0yVkV1yrcwwT2QDgVA4E/view?usp=sharing
